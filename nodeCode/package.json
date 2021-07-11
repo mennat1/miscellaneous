@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "got": "^11.8.2",
+    "prompt-sync": "^4.2.0",
+    "request-promise": "^4.2.6"
+  }
+}
