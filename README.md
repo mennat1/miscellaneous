@@ -1,2 +1,2 @@
 # miscellaneous
-A repo for random coding projects :")
+Random coding projects :")
